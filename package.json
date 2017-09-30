@@ -1,0 +1,17 @@
+{
+  "name": "html-downloader",
+  "version": "1.0.0",
+  "description": "Downloads html files.",
+  "main": "index.js",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "robbchar@gmail.com",
+  "license": "ISC"
+}
