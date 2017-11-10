@@ -4,8 +4,9 @@ html downloader - will read from a list of urls to download and save the html
 Install [NodeJs](https://nodejs.org/).
 
 # Running
-+ once downloaded install dependancies: `npm install`
-+ type this on the command line: `node index.js`
++ once you pull this repo you can then `cd` into the directory with all the html-downloader files
++ install the dependanciesusing this command: `npm install`
++ then run the application using this on the command line: `node index.js`
 
 # Config
 __urls__: stored in config/urls.json, this is a json formatted set of filenames/urls to download and save. An example:
